@@ -1,6 +1,6 @@
-Hello! I'm C8H8! I'm from China!
+Hello! I'm C8H8!
 
-你好！我是C8H8！我是中国人！
+你好！我是C8H8！
 
 I dunno what to write here……
 
